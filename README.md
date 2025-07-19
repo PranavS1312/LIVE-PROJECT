@@ -1,6 +1,6 @@
 # ISKCON NVCC Encyclopedia System 📚
 
-A web-based encyclopedia platform for ISKCON NVCC, designed to organize and present spiritual, cultural, and Bhagvadgita knowledge. This project aims to provide an easy-to-navigate(read,update and write content) knowledge hub for devotees and visitors. 
+A web-based encyclopedia platform for ISKCON NVCC, designed to organize and present spiritual, cultural, and Bhagvadgita knowledge. This project aims to provide an easy-to-navigate knowledge hub for devotees and visitors. The user can read, upload and update the content.
 
 ---
 
