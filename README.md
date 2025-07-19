@@ -31,3 +31,9 @@ A web-based encyclopedia platform for ISKCON NVCC, designed to organize and pres
 | Database     | PostgreSQL (planned)      |
 | Versioning   | Git + GitHub              |
 
+
+## 🌐 Live Demo
+
+🔗 [View Project on GitHub Pages](https://pranavs1312.github.io/LIVE-PROJECT/)
+
+
